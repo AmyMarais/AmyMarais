@@ -1,4 +1,4 @@
-- 👋 Hey. my name is Amy Marais. 
+- 👋 Hey, my name is Amy Marais. 
 - 👀 Welcome to my GitHub repo. Take a look at some of my projects while you're here. 
 
 <!---
